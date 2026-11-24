@@ -57,6 +57,10 @@
             "repo": "OldSteam-Theme"
         },
         {
+            "owner": "NVHT",
+            "repo": "Steam-Enhanced"
+        },
+        {
             "owner": "OriginalSwayze",
             "repo": "Afterglow"
         },
@@ -146,6 +150,10 @@
             "readme": "millennium.md"
         },
         {
+            "owner": "Plyxen",
+            "repo": "steam-rice"
+        },
+        {
             "owner": "ricewind012",
             "repo": "aerothemesteam"
         },
@@ -175,8 +183,16 @@
             "repo": "simply-dark"
         },
         {
+            "owner": "sluhtie",
+            "repo": "graphite-steam"
+        },
+        {
             "owner": "SpaceTheme",
             "repo": "Steam"
+        },
+        {
+            "owner": "SUmmerLunchhh",
+            "repo": "Lain_Steam_Theme"
         },
         {
             "owner": "tkashkin",
@@ -188,12 +204,24 @@
             "repo": "glass-dusk"
         },
         {
+            "owner": "yingzeliangzi",
+            "repo": "Threshold-Miku-Light"
+        },
+        {
             "owner": "yufengOvO",
             "repo": "steam-leimu"
         },
         {
             "owner": "yurisuika",
             "repo": "Zehn"
+        },
+        {
+            "owner": "NotKuromi",
+            "repo": "NeonInTheWoods"
+        },
+        { 
+            "owner": "Blade04208", 
+            "repo": "xbox360-blades" 
         }
     ]
 }
